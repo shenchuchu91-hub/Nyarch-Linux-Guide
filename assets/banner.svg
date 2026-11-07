@@ -1,0 +1,103 @@
+<svg fill="none" viewBox="0 0 850 250" width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nyarchBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181825"/>
+      <stop offset="50%" stop-color="#1e1e2e"/>
+      <stop offset="100%" stop-color="#11111b"/>
+    </linearGradient>
+
+    <linearGradient id="nyarchPink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9a9e"/>
+      <stop offset="50%" stop-color="#fecfef"/>
+      <stop offset="100%" stop-color="#a1c4fd"/>
+    </linearGradient>
+
+    <linearGradient id="nyarchCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1793d1"/>
+      <stop offset="50%" stop-color="#89dceb"/>
+      <stop offset="100%" stop-color="#cba6f7"/>
+    </linearGradient>
+
+    <linearGradient id="nyarchBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f38ba8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#cba6f7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#89dceb" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <linearGradient id="waveLight" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f38ba8" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#cba6f7" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#89dceb" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      font-weight: 800;
+      font-size: 30px;
+      fill: url(#nyarchPink);
+      filter: drop-shadow(0px 2px 8px rgba(243, 139, 168, 0.4));
+    }
+    .subtitle {
+      font-family: "Fira Code", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 14.5px;
+      font-weight: 500;
+      fill: #cdd6f4;
+      letter-spacing: 0.5px;
+    }
+    .badge-text {
+      font-family: "Fira Code", monospace;
+      font-size: 11.5px;
+      font-weight: bold;
+    }
+  </style>
+
+  <rect x="2" y="2" width="846" height="246" rx="20" fill="url(#nyarchBg)" stroke="url(#nyarchBorder)" stroke-width="2"/>
+  <path d="M2,170 C200,210 380,130 540,180 C700,225 780,160 848,190 L848,246 C848,246 848,246 846,248 L2,248 Z" fill="url(#waveLight)"/>
+
+  <!-- 星光点缀 -->
+  <text x="60" y="50" fill="#f9e2af" font-size="20">✦</text>
+  <text x="780" y="65" fill="#f9e2af" font-size="24">✦</text>
+  <text x="730" y="190" fill="#f9e2af" font-size="16">✧</text>
+  <text x="100" y="200" fill="#f9e2af" font-size="16">✧</text>
+  <text x="450" y="40" fill="#f9e2af" font-size="14">★</text>
+
+  <!-- 左侧萌系猫猫徽标 -->
+  <g transform="translate(50, 70)">
+    <circle cx="45" cy="45" r="42" fill="#313244" stroke="#f38ba8" stroke-width="2"/>
+    <path d="M22,38 L16,14 C26,18 36,26 45,26 C54,26 64,18 74,14 L68,38 C75,44 78,52 78,60 C78,74 63,82 45,82 C27,82 12,74 12,60 C12,52 15,44 22,38 Z" fill="#f38ba8"/>
+    <path d="M23,32 L20,20 C26,23 31,27 34,28 Z" fill="#f5c2e7"/>
+    <path d="M67,32 L70,20 C64,23 59,27 56,28 Z" fill="#f5c2e7"/>
+    <ellipse cx="32" cy="52" rx="4" ry="6" fill="#11111b"/>
+    <ellipse cx="58" cy="52" rx="4" ry="6" fill="#11111b"/>
+    <circle cx="34" cy="50" r="1.5" fill="#ffffff"/>
+    <circle cx="60" cy="50" r="1.5" fill="#ffffff"/>
+    <ellipse cx="24" cy="59" rx="5" ry="2.5" fill="#eba0ac" opacity="0.8"/>
+    <ellipse cx="66" cy="59" rx="5" ry="2.5" fill="#eba0ac" opacity="0.8"/>
+    <path d="M41,61 Q45,64 45,61 Q45,64 49,61" stroke="#11111b" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- 中间文字区域 -->
+  <g transform="translate(170, 0)">
+    <text x="0" y="85" class="title">✨ Nyarch Linux 萌新入坑与进阶实战记 ✨</text>
+    <text x="0" y="125" class="subtitle">🌸 从 GNOME 深度挖掘到 Niri 卷轴美学 · 给二次元玩家的极客浪漫 🌸</text>
+
+    <!-- 标签胶囊 -->
+    <g transform="translate(0, 155)">
+      <rect x="0" y="0" width="105" height="26" rx="13" fill="#313244" stroke="#1793d1" stroke-width="1"/>
+      <text x="52" y="17" text-anchor="middle" fill="#89dceb" class="badge-text">🐾 Nyarch.moe</text>
+
+      <rect x="115" y="0" width="105" height="26" rx="13" fill="#313244" stroke="#cba6f7" stroke-width="1"/>
+      <text x="167" y="17" text-anchor="middle" fill="#cba6f7" class="badge-text">🪟 GNOME 调校</text>
+
+      <rect x="230" y="0" width="105" height="26" rx="13" fill="#313244" stroke="#f38ba8" stroke-width="1"/>
+      <text x="282" y="17" text-anchor="middle" fill="#f38ba8" class="badge-text">🌀 Niri 卷轴</text>
+
+      <rect x="345" y="0" width="145" height="26" rx="13" fill="#313244" stroke="#fab387" stroke-width="1"/>
+      <text x="417" y="17" text-anchor="middle" fill="#fab387" class="badge-text">💖 致敬 Shorin 大老师</text>
+    </g>
+
+    <text x="0" y="215" fill="#a6e3a1" font-family="monospace" font-size="12.5">&gt; "代码可以严谨，但桌面一定要可爱！传承这份热爱与浪漫。"</text>
+  </g>
+</svg>

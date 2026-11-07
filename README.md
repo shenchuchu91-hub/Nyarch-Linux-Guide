@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Desktop-GNOME_to_Niri-FF69B4?style=for-the-badge&logo=gnome&logoColor=white" />
     <img src="https://img.shields.io/badge/Shell-Fish_%2B_Starship-008080?style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/Tribute-To_SHORiN--KiWATA-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Aesthetic-Anime%20%26%20Loli%20Style-ffb6c1?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Aesthetic-Anime%20%26%20Moe%20Style-ffb6c1?style=for-the-badge&logo=safari&logoColor=white" />
   </p>
 
   <p align="center">
@@ -103,7 +103,7 @@ Nyarch 的一大神技是：**换一张壁纸，整个系统桌面和图标都�
 - 动态重编译生成 `~/.config/gtk-4.0/gtk.css`；
 - 实时重新渲染并加载 **Tela-circle-MaterialYou** 图标主题！
 
-> 💡 **调校经验**：如果你放了一张可爱的粉色萝莉壁纸，整个文件夹、选中高亮、终端光标都会瞬间变成梦幻的樱花粉色！
+> 💡 **调校经验**：如果你放了一张可爱的粉色二次元壁纸，整个文件夹、选中高亮、终端光标都会瞬间变成梦幻的樱花粉色！
 
 ### 2. GNOME 下的二次元美化组合拳
 - **图标包**: `Tela-circle-icon-theme`（圆润柔和，完美搭配 Material 动态取色）；
@@ -165,8 +165,8 @@ Shorin 大老师用他的教程和工具带了无数新手入门，而今天，�
 
 <div align="center">
 
-🌸 **相关开源仓库** 🌸  
-[Dotfiles 桌面配置](https://github.com/shenchuchu91-hub/dotfiles) · [Moe Game Launcher 游戏启动器](https://github.com/shenchuchu91-hub/moe-game-launcher) · [一键拉取命令库](https://github.com/shenchuchu91-hub/linux)
+🌸 **相关开源仓库与规范** 🌸  
+[Dotfiles 桌面配置](https://github.com/shenchuchu91-hub/dotfiles) · [Moe Game Launcher 游戏启动器](https://github.com/shenchuchu91-hub/moe-game-launcher) · [一键拉取命令库](https://github.com/shenchuchu91-hub/linux) · [全局免责与安全规范](https://github.com/shenchuchu91-hub/disclaimer)
 
 <sub>Made with 💖 by <b>shenchuchu91-hub</b> · 致敬所有为 Linux 社区贡献热爱的开发者</sub>
 

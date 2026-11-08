@@ -80,8 +80,8 @@
 
   <!-- 中间文字区域 -->
   <g transform="translate(170, 0)">
-    <text x="0" y="85" class="title">✨ Nyarch Linux 萌新入坑与进阶实战记 ✨</text>
-    <text x="0" y="125" class="subtitle">🌸 从 GNOME 深度挖掘到 Niri 卷轴美学 · 给二次元玩家的极客浪漫 🌸</text>
+    <text x="0" y="85" class="title">✨ Nyarch Linux 环境配置与桌面进阶指南 ✨</text>
+    <text x="0" y="125" class="subtitle">🌸 GNOME 动态调色 · Niri 卷轴平铺实践 · 社区生态与资源导航 🌸</text>
 
     <!-- 标签胶囊 -->
     <g transform="translate(0, 155)">

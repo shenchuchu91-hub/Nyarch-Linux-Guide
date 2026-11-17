@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Monochrome Banner"/>
+</div>
+
+---
+
 # nyarch-linux-guide
 
 nyarch linux setup, gnome theming, niri migration, material color extraction.
@@ -18,7 +24,7 @@ nyarch linux setup, gnome theming, niri migration, material color extraction.
 
 ## 前言与背景 (Overview)
 
-Arch Linux 以滚动更新与丰富的 AUR 生态著称，而 **Nyarch Linux** 则在此基石上预置了开箱即用的二次元主题、中文字体与现代桌面配置，兼顾美观性与实用度。
+Arch Linux 以滚动更新与丰富的 AUR 生态著称，而 **Nyarch Linux** 则在此基石上预置了开箱即用的暗黑极简主题、中文字体与现代桌面配置，兼顾美观性与实用度。
 
 本文档系统性梳理了从 Nyarch 官方镜像安装、GNOME Material You 动态调色逻辑、到进阶迁移至 Niri 卷轴平铺窗口管理器的完整流程，旨在为喜爱二次元桌面风格的 Linux 探索者提供一份条理清晰、可复现的参考文档。
 
@@ -83,7 +89,7 @@ Nyarch 通过监听壁纸切换事件（`~/.config/nyarch/after_wp_change.sh`）
 - **图标主题**: `Tela-circle-icon-theme`（圆润柔和，配合动态色彩效果良好）；
 - **终端环境**:
  - `Fastfetch`：配置二次元字符画与系统信息显示；
- - `Starship`：跨 Shell 的渐变色彩 Powerline 提示符；
+ - `Starship`：跨 Shell 的单色哑光终端提示符；
  - `Fish Shell`：开箱即用的语法高亮与智能补全。
 
 ---
@@ -130,4 +136,8 @@ Nyarch 通过监听壁纸切换事件（`~/.config/nyarch/after_wp_change.sh`）
 
 ---
 
+---
 
+<div align="center">
+  <sub>雨声未停 · 保持冷清 · 独行其道</sub>
+</div>

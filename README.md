@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="" />
-</p>
-
-<p align="center"><sub>雨还在下</sub></p>
+<img alt="Nyarch-Linux-Guide · 雨还在下" src="./assets/header.svg" width="100%" />
 
 # Nyarch 说明
 
@@ -64,3 +60,5 @@ Nyarch 的 GNOME 会在换壁纸时跑 `~/.config/nyarch/after_wp_change.sh`：�
 3. 高刷新率屏幕可以用 Gamescope 锁到屏幕自己的刷新率，比如 144。
 
 <p align="center"><sub>雨还在下</sub></p>
+
+<img alt="雨还在下 · 屏幕常亮" src="./assets/footer.svg" width="100%" />

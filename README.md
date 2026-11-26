@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Monochrome Banner"/>
-</div>
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="" />
+</p>
 
----
+<p align="center"><sub>雨还在下</sub></p>
 
-# nyarch-linux-guide
+# Nyarch 说明
 
-nyarch linux setup, gnome theming, niri migration, material color extraction.
-
----
+Nyarch 是带好主题和中文字体的 Arch。这里记安装、GNOME 配色，以及之后换到 niri 的步骤。镜像只从下面的官方地址下。
 
 ## 目录 (Table of Contents)
 
@@ -24,9 +22,7 @@ nyarch linux setup, gnome theming, niri migration, material color extraction.
 
 ## 前言与背景 (Overview)
 
-Arch Linux 以滚动更新与丰富的 AUR 生态著称，而 **Nyarch Linux** 则在此基石上预置了开箱即用的暗黑极简主题、中文字体与现代桌面配置，兼顾美观性与实用度。
-
-本文档系统性梳理了从 Nyarch 官方镜像安装、GNOME Material You 动态调色逻辑、到进阶迁移至 Niri 卷轴平铺窗口管理器的完整流程，旨在为喜爱二次元桌面风格的 Linux 探索者提供一份条理清晰、可复现的参考文档。
+Nyarch 在 Arch 上预置了主题、中文字体和一套桌面。这篇从官方镜像安装写起，接着是 GNOME 的配色，最后是换到 niri。镜像地址在下一节，别下第三方打包的盘。
 
 ---
 
@@ -139,5 +135,5 @@ Nyarch 通过监听壁纸切换事件（`~/.config/nyarch/after_wp_change.sh`）
 ---
 
 <div align="center">
-  <sub>雨声未停 · 保持冷清 · 独行其道</sub>
+  <sub>雨还在下</sub>
 </div>
